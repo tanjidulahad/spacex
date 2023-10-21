@@ -1,0 +1,28 @@
+.ant-pagination li.ant-pagination-item,
+.ant-pagination li.ant-pagination-prev,
+.ant-pagination li.ant-pagination-next,
+.ant-pagination li.ant-pagination-jump-next {
+    border: 1px solid #DEE2E6;
+    margin: 0;
+}
+
+select {
+    -webkit-appearance: none;
+    appearance: none;
+    background-image: url("assets/drop-down.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: calc(100% - 8px) center;
+}
+
+select:required:invalid {
+    color: gray;
+  }
+
+select option[value=""][disabled] {
+    display: none;
+  }
+
+select option {
+    color: black;
+  }
