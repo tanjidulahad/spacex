@@ -10,35 +10,34 @@ To run the app locally, follow these steps:
 
    ```bash
    git clone <repository_url>
-Navigate to the project directory:
 
-bash
-Copy code
-cd my-react-vite-tailwind-app
-Install the project dependencies using Yarn or npm:
+2. Navigate to the project directory:
 
-bash
-Copy code
+    ```bash
+    cd my-react-vite-tailwind-app
+
+3. Install the project dependencies using Yarn or npm:
+
+```bash
 # Using Yarn
 yarn
-
 # Using npm
 npm install
-Start the development server:
 
-bash
-Copy code
+4. Start the development server:
+
+```bash
 # Using Yarn
 yarn dev
 
 # Using npm
 npm run dev
-The app will be available at http://localhost:3000.
+The app will be available at http://127.0.0.1:5173/.
 
-Deployment on Netlify
-To deploy the app on Netlify, follow these steps:
+##Deployment on Netlify
+To deploy the app on Netlify, I follow these steps:
 
-Create a Netlify account if you don't already have one: Netlify Sign-Up
+1. Create a Netlify account if you don't already have one: Netlify Sign-Up
 
 Log in to your Netlify account.
 
