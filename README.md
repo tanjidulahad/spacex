@@ -14,7 +14,7 @@ To run the app locally, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd my-react-vite-tailwind-app
+    cd spacex
 
 3. Install the project dependencies using Yarn or npm:
 
@@ -37,7 +37,7 @@ To run the app locally, follow these steps:
 ## Deployment on Netlify
 To deploy the app on Netlify, I follow these steps:
 
-1. Create a Netlify account if you don't already have one: Netlify Sign-Up
+1. Create a Netlify account if you don't already have one: [Netlify Sign-Up](https://www.netlify.com/)
 
 2. Log in to your Netlify account.
 
@@ -54,8 +54,8 @@ To deploy the app on Netlify, I follow these steps:
 
 7. Netlify will build and deploy your app. Once the deployment is complete, you'll receive a unique URL where your app is hosted.
 
-Additional Configuration
+## Additional Configuration
 You can customize the app and adjust the Tailwind CSS configuration as needed. Be sure to check the Vite and Tailwind CSS documentation for more information:
 
-Vite Documentation: [Vite.js](https://vitejs.dev/)
-Tailwind CSS Documentation: [Tailwind CSS](https://tailwindcss.com/)
+Vite Documentation: [Vite.js](https://vitejs.dev/).
+Tailwind CSS Documentation: [Tailwind CSS](https://tailwindcss.com/).
